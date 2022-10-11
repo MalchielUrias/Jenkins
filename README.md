@@ -1,2 +1,0 @@
-# Jenkins
-For learning Jenkins
